@@ -10,6 +10,7 @@ Personalized Recommendations: Customized fitness and diet recommendations tailor
 React Frontend: Modern and responsive user interface developed using React for an optimal user experience.
 Flask Backend: Robust backend powered by Flask, providing seamless integration and data processing.
 Machine Learning: Implementation of machine learning algorithms to enhance the precision and relevance of health recommendations.
+
 Getting Started
 Prerequisites
 Node.js and npm for the frontend.
